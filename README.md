@@ -9,11 +9,11 @@ Taking Amazon for example, [recommender system is credited for 35% of total reve
 <br/>
 
 For this project, I will be using following models and try to build a recommender system for articles on CI&T DeskDrop. 
-* Popularity model: recommend based on popularity
-* Content-based model: recognize and recommend similar content 
-* Collaborative model: personalized based on user behaviour 
-* Hybrid model: combined model
-* Convolutional Neural Network: machine learning model
+* **Popularity model**: recommend based on popularity
+* **Content-based model**: recognize and recommend similar content 
+* **Collaborative model**: personalized based on user behaviour 
+* **Hybrid model**: combined model
+* **Convolutional Neural Network**: machine learning model
 
 <br/>
 
