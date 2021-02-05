@@ -22,6 +22,6 @@ For this project, I will be using following models and try to build a recommende
 You can find the original dataset on Kaggle [**HERE**](https://www.kaggle.com/gspmoreira/articles-sharing-reading-from-cit-deskdrop)
 
 ## Pitch Deck
-You can check the pitch deck hosted on [***Visme***](https://my.visme.co/view/mxn8qvw8-g8n5oprzdjye2qvz)
+You can check my pitch deck hosted on [***Visme Online***](https://my.visme.co/view/mxn8qvw8-g8n5oprzdjye2qvz)
 
 For more details, jump to the [**notebook**](https://github.com/qdwentao123/sharing/blob/master/Capstone_Bill_Zhang.ipynb) for complete code.
