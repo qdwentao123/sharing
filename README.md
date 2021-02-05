@@ -5,7 +5,7 @@
 ## Overview
 <p>Recommender system is one of the most popular topics in data science nowadays. Industry leaders in recommender system, such as Amazon and Netflix, have spent years R&D and benefit from it siginificantly. </p>
 
-<p>Taking Amazon for example, [recommender system is credited for 35% of total revenues and 29% growth in sales. And for Netflix, up to 75% of content viewed comes from its recommender system and this system saves 1 billion marketing cost each year.](https://sigmoidal.io/recommender-systems-recommendation-engine/)</p>
+<p>Taking Amazon for example, [recommender system is credited for 35% of total revenues and 29% growth in sales. And for Netflix, up to 75% of content viewed comes from its recommender system and this system saves 1 billion marketing cost each year.]</p>(https://sigmoidal.io/recommender-systems-recommendation-engine/)
 
 <br/>
 
